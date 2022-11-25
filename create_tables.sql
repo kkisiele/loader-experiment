@@ -1,0 +1,1 @@
+create table txlog(id int primary key, text varchar(50))

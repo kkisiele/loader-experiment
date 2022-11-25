@@ -1,0 +1,3 @@
+metrics.reporter: prometheus
+metrics.reporter.prometheus.factory.class: org.apache.flink.metrics.prometheus.PrometheusReporterFactory
+metrics.reporter.prometheus.port: 9249
